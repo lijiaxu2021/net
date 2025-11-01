@@ -1,5 +1,5 @@
 [[redirects]]
-    from = "/*"
-    to = "http(s)://github.com/:splat"
-    status = 200
-    force = true
+  from = "/*"
+  to = "http://81.70.151.171:5000/:splat"
+  status = 200
+  force = true
